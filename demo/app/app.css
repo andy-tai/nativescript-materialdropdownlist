@@ -8,17 +8,18 @@
 }
 
 .mdl-icon {
-    font-family: MaterialIcons;
+    font-family: 'MaterialIcons';
     font-size: 16;
     color: darkgray;
     padding-left: 10;
     padding-right: 10;
     text-align: left;
     vertical-align: center;
+    iconText:'\ue5c6'; 
 }
 
 .md-icon {
-    font-family: MaterialIcons;
+    font-family: 'MaterialIcons';
     font-size: 16;
 }
 
